@@ -2,7 +2,7 @@ Welcome to my professional web portfolio. A minimalist yet interactive space whe
 
 ## Web Live
 
-https://synfiniti.github.io/portfolioweb/
+https://synfiniti.github.io/JeanPortafolio/
 
 ## ✨ Key Features
 - *Clean and responsive design* that adapts to any device
