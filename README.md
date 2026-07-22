@@ -31,8 +31,8 @@ https://synfiniti.github.io/JeanPortafolio/
 ## 📬 Contact
 Let's connect! You can find me on:
 - [LinkedIn](https://www.linkedin.com/in/jean-gutierrez-rivas/)
-- [GitHub](https://github.com/Synfiniti))
-- [Behance](https://www.behance.net/jeangutierrez1))
+- [GitHub](https://github.com/Synfiniti)
+- [Behance](https://www.behance.net/jeangutierrez1)
 
 ## 📄 License
 This project is licensed under the Jean Gutierrez(LICENSE).
